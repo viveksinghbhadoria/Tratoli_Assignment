@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.main-heading {
+  text-align: start;
+  background-color: grey;
+  margin-left: 20px;
+  margin-right: 50px;
+  padding-left: 24px;
+  color: goldenrod;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.blog-list-container {
+  background-color: #eff2df;
+  padding: 30px;
+}
+
+.description {
+  margin-left: 20px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  font-size: 26px;
+  font-family: Georgia;
+}

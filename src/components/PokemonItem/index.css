@@ -1,0 +1,28 @@
+.blogImage {
+  width: 100px;
+}
+
+.tta-card {
+  width: fit-content;
+  margin: 20px;
+  padding: 10px;
+  background-color: #b8b5bd;
+  box-shadow: 10px 8px 0px 0px grey;
+  border-radius: 14px;
+}
+
+.avatarImage {
+  height: 100px;
+  border-radius: 55px;
+}
+
+.name {
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+
+.image {
+  height: 140px;
+}
